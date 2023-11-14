@@ -1,9 +1,6 @@
 import  metodusok
 
 
-#metodusok.veletlen()
-
-
 
 
 #metodusok.OtVeletlen()
@@ -16,11 +13,6 @@ import  metodusok
 
 
 #metodusok.OsszevisszaFeladat()
-
-
-#metodusok.HosszuFeladat()
-
-
 
 
 #kapott = str(input("Kérek egy szót vagy szöveget: "))
